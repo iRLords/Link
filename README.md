@@ -13,4 +13,4 @@ Using this tool, you can create a malicious link and get information about the p
 
 - [🧨 Unkonw](https://t.me/soltan_python)
 - [🧨 MrSharp](https://t.me/MrSharp)
-
+- [🧨 LoL](https://t.me/MonSieurLoL)
